@@ -1,0 +1,5 @@
+{
+  "name": "DevOps Architect Pro",
+  "description": "A comprehensive tool to containerize Node.js applications and generate production-ready Kubernetes manifests and CI/CD pipelines.",
+  "requestFramePermissions": []
+}
